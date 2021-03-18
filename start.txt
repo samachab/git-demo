@@ -1,0 +1,2 @@
+Test quick start demo > start.txt
+echo Test quick start demo
